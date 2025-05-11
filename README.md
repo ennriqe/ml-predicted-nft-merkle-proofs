@@ -1,4 +1,4 @@
-# ML-NFT Valuation Merkle Proofs by PunkPredictor
+# Onchain verifiable ML performance metrics for NFT valuations using merkle Proofs by PunkPredictor
 
 A Python toolkit and on-chain smart contract for building, storing, and verifying sparse Merkle-tree proofs over machine-learning–generated NFT valuation predictions to prove predictive accuracy metrics trustlessly.
 
